@@ -1,0 +1,10 @@
+[2023-10-16 10:26:43.636 AM] error : 	uncaughtException: app.use() requires a middleware function
+TypeError: app.use() requires a middleware function
+    at Function.use (/data/data/com.termux/files/home/NodeJs/Test-MS/app-1/node_modules/express/lib/application.js:217:11)
+    at file:///data/data/com.termux/files/home/NodeJs/Test-MS/app-1/src/app/api/index.js:12:5
+    at ModuleJob.run (node:internal/modules/esm/module_job:192:25)
+[2023-10-16 10:26:43.636 AM] error : 	uncaughtException: app.use() requires a middleware function
+TypeError: app.use() requires a middleware function
+    at Function.use (/data/data/com.termux/files/home/NodeJs/Test-MS/app-1/node_modules/express/lib/application.js:217:11)
+    at file:///data/data/com.termux/files/home/NodeJs/Test-MS/app-1/src/app/api/index.js:12:5
+    at ModuleJob.run (node:internal/modules/esm/module_job:192:25)
